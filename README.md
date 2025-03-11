@@ -1,5 +1,6 @@
 # Tech Consultancy Website
 
+This is a website I created to experiment with react development. Its just a basic website any tech consulting firm can use to showcase skills and sell consumer services. 
 A modern React website for a software consulting company, featuring information about various services including web development, Salesforce support, automated testing, managed services, and AI consulting.
 
 ## Features
